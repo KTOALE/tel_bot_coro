@@ -1,1 +1,1 @@
-HELLO_MSG_MODE = "<b>HI, {name}\n...</b>", "html"
+HELLO_MSG_MODE = "<b>HI, {name}\n...</b>"
